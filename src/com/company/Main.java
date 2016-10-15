@@ -12,7 +12,7 @@ public class Main
         Scanner read = new Scanner(System.in);
         
         System.out.println("Donner le nombre de ligne du triangle ");
-        ligne = read.nextInt();
+        ligne = read.nextInt(); 
 
         for (int i = 0; i < ligne; i++) {
 
